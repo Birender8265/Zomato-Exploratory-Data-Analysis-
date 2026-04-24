@@ -6,6 +6,8 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the Zom
 By combining the core Zomato dataset with a country-code mapping file, this analysis produces a clean, enriched dataset that enables multi-dimensional exploration across geography, ratings, and service offerings.
 
 
+
+
 🔍 Key Features & Analysis Performed
 1. 🌍 Country-wise Distribution
 
@@ -46,6 +48,8 @@ Finding: Online delivery is available only in India and UAE.
 Visualised the top 5 cities by restaurant count using a pie chart.
 
 
+
+
 👤 My Role & Responsibilities
 🔧 Data Collection & Loading
 
@@ -77,9 +81,13 @@ Drew conclusions on Zomato's geographic dominance, rating behaviour, and deliver
 
 
 
+
+
 📬 Contact
 Feel free to connect or reach out:
 
-GitHub: Birender8265
+GitHub: https://github.com/Birender8265
+
 LinkedIn: https://www.linkedin.com/in/birendra-singh-28183339b
+
 Email: birendersingh9917@gmail.com
