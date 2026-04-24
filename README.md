@@ -6,6 +6,8 @@
 
 
 📌 Project Overview
+
+
 This project performs a comprehensive Exploratory Data Analysis (EDA) on the Zomato Restaurant Dataset — a globally recognised food delivery and restaurant discovery platform dataset. The goal is to uncover meaningful patterns and insights about restaurant distribution, customer ratings, online delivery availability, and country-wise usage trends.
 By combining the core Zomato dataset with a country-code mapping file, this analysis produces a clean, enriched dataset that enables multi-dimensional exploration across geography, ratings, and service offerings.
 
